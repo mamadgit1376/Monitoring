@@ -1,0 +1,9 @@
+{
+  "ui": "components\\intentui",
+  "utils": "utils",
+  "gray": "zinc",
+  "css": "app/globals.css",
+  "alias": "@",
+  "language": "typescript",
+  "$schema": "https://intentui.com/schema.json"
+}

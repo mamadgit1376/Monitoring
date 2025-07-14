@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark;
+}
+@font-face {
+  font-family: 'IRANSans';
+  src: url('../public/fonts/woff2/IRANSansWeb.woff2') format('woff2'),
+       url('../public/fonts/woff/IRANSansWeb.woff') format('woff');
+  font-display: swap;
+  font-weight: normal;
+  font-style: normal;
+}
