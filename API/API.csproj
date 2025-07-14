@@ -10,7 +10,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="AbfaCS.Common" Version="1.0.9" />
+		<PackageReference Include="Pack.Common" Version="1.0.9" />
 		<PackageReference Include="HtmlSanitizer" Version="9.0.886" />
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.6" />
 		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.6" />
